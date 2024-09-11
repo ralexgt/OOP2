@@ -1,0 +1,8 @@
+username,password,accessLevel,type
+employee_1,password_1,1,employee
+employee_2,password_2,5,employee
+employee_3,password_3,3,employee
+client_1,password_1,null,client
+client_2,password_2,null,client
+client_3,password_3,null,client
+client_4,password_4,null,client

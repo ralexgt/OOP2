@@ -1,0 +1,11 @@
+number,owner,balance,accountType,interest
+10,client_2,50.0,CURRENT_ACCOUNT,null
+60,client_1,50.0,CURRENT_ACCOUNT,0.3
+40,client_1,60.0,CURRENT_ACCOUNT,0.1
+11,client_3,30.0,DEPOSIT_ACCOUNT,0.1
+63,client_2,30.0,CURRENT_ACCOUNT,null
+72,client_4,10.0,CURRENT_ACCOUNT,null
+66,client_1,25.0,DEPOSIT_ACCOUNT,null
+50,client_1,15.0,DEPOSIT_ACCOUNT,null
+37,client_3,20.0,CURRENT_ACCOUNT,null
+80,client_2,5.0,CURRENT_ACCOUNT,null
